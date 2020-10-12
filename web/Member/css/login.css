@@ -1,0 +1,92 @@
+.login_container{
+   margin-top: 100px;
+}
+.login_container1{
+    width: 420px;
+    margin: auto;
+}
+.account{
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+}
+.newcustomers{
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 15px ;
+}
+.detail{
+    font-size: 11px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.button1{
+    width: 420px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 24px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.registered{
+    font-weight: bold;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+.loginEnter{
+    margin-top: 20px;
+    width: 420px;
+}
+.userid{
+    width: 420px;
+    margin-bottom: 20px;
+    height: 38px;
+    padding-left: 15px;
+}
+.button2{
+    width: 420px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.button3{
+    width: 100px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.forgot{
+    display: inline-block;
+    text-align: right;
+    width: 315px;
+    font-size: 11px;
+    color: grey;
+}
+.option{
+    margin-top: 10px;
+}
+#findPassword{
+    color: grey;
+}
+.swal-button{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.swal-button:hover{
+    color: black;
+    background: white;
+}

@@ -1,0 +1,110 @@
+.bigContent {
+    display: flex;
+    margin-top: 100px;
+}
+
+.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#img {
+    width: 400px;
+    height: 400px;
+}
+.imgMain{
+    text-align: center;
+}
+.file_box{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.file_box label {
+    display: inline-block;
+    background: black;
+    color: white;
+    font-size: inherit;
+    line-height: normal;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 5px;
+    -webkit-transition: background-color 0.2s;
+    transition: background-color 0.2s;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+.file_box input[type="file"] {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+.id_loc{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+.id_loc1{
+    display: inline-block;
+    width: 80px;
+    text-align: left;
+}
+.id_loc2{
+    width: 100px;
+}
+.sub_loc{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+.sub_loc1{
+    width: 80px;
+    text-align: left;
+    display: inline-block;
+    padding-top: 3px;
+}
+.sub_loc2{
+    width: 100px;
+}
+.btn_loc{
+    text-align: center;
+    margin-top: 15px;
+}
+.btn_loc button{
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.topSub1{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.topSub2{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.topSub3{
+    font-size: 12px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

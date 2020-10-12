@@ -1,0 +1,54 @@
+#con{
+    display: inline-block;
+    width: 180px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#maincon{
+    margin-top: 100px;
+}
+.maincon1{
+    display: flex;
+}
+.allList{
+    margin: auto;
+}
+.allListthumb{
+    text-align: center;
+}
+.allListSub{
+    width: 182px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.allListSub div{
+    margin-bottom: 3px;
+}
+img{
+    width: 180px;
+    height: 180px;
+}
+.pageNum{
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+.allList1{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.allList2{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.allList3 {
+    font-size: 12px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,94 @@
+.boardList{
+    width: 1250px;
+    margin: auto;
+    margin-top: 100px;
+}
+.boardList1{
+    width: 1250px;
+    display: flex;
+    flex-direction: column;
+}
+.subList{
+    display: flex;
+}
+.subList div{
+    width: 250px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.sublist1 {
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.num,.id,.date,.count{
+    text-align: center;
+}
+.sublist1 div{
+    width: 250px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.topBoard{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.topBoard1{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.topBoard2{
+    font-size: 12px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+#pageBlock{
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+.search{
+    display: flex;
+    margin-left: auto;
+    margin-top: 8px;
+}
+.search1{
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 10px;
+    padding-top: 2.5px;
+}
+.search input[type=button]{
+    width: 100px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.search input[type=text]{
+    padding-left: 8px;
+    margin-right: 4px;
+
+}
+.bottomButton{
+    text-align: center;
+    margin-top: 15px;
+}
+.bottomButton button{
+    width: 100px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    border: 1px solid black;
+}

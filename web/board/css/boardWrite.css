@@ -1,0 +1,62 @@
+.whiteBox{
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+}
+.sidemenu{
+    float: left;
+    margin-left: 50px;
+    height: 500px;
+    margin-top: 30px;
+}
+.sidemenu li{
+    margin-bottom: 30px;
+}
+.CONTACT{
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.whiter2,.whiter3 {
+    width: 80px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 13px;
+}
+.subject{
+    margin-top: 15px;
+}
+.subject1{
+    width: 80px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 13px;
+}
+.subject2{
+    padding-left: 8px;
+    width: 200px;
+}
+.content1{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 13px;
+}
+.content2{
+    margin-top: 15px;
+    width: 500px;
+    height: 300px;
+    padding-left: 8px;
+}
+.button1{
+    text-align: center;
+    margin-top: 10px;
+}
+.submit,.cancle{
+    width: 150px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="CKFinder-2.6.3">
+    <archive path="/Users/gyu/Desktop/각종파일/ckfinder/WEB-INF/lib/CKFinder-2.6.3.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/ckfinder/WEB-INF/lib/CKFinderPlugin-FileEditor-2.6.3.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/ckfinder/WEB-INF/lib/CKFinderPlugin-ImageResize-2.6.3.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/ckfinder/WEB-INF/lib/commons-fileupload-1.2.2.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/ckfinder/WEB-INF/lib/commons-io-2.0.1.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/ckfinder/WEB-INF/lib/gson-2.5.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/ckfinder/WEB-INF/lib/thumbnailator-0.4.8.jar" />
+  </library>
+  <library name="JAX-WS-Apache Axis">
+    <archive path="/Users/gyu/IntellJ/ProJect/lib/jaxrpc.jar" />
+    <archive path="/Users/gyu/IntellJ/ProJect/lib/saaj.jar" />
+    <archive path="/Users/gyu/IntellJ/ProJect/lib/commons-logging-1.0.4.jar" />
+    <archive path="/Users/gyu/IntellJ/ProJect/lib/commons-discovery-0.2.jar" />
+    <archive path="/Users/gyu/IntellJ/ProJect/lib/log4j-1.2.8.jar" />
+    <archive path="/Users/gyu/IntellJ/ProJect/lib/wsdl4j-1.5.1.jar" />
+    <archive path="/Users/gyu/IntellJ/ProJect/lib/axis.jar" />
+  </library>
+  <library name="activation-1.1.1">
+    <archive path="/Users/gyu/Desktop/각종파일/activation-1.1.1.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/메일 SMTP/javax.mail-api-1.6.2.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/메일 SMTP/javax.mail.jar" />
+  </library>
+  <library name="cos">
+    <archive path="/Users/gyu/Desktop/각종파일/cos-20.08/lib/cos.jar" />
+  </library>
+  <library name="json-simple-1.1.1">
+    <archive path="/Users/gyu/Desktop/각종파일/json-simple-1.1.1.jar" />
+  </library>
+  <library name="jsoup-1.13.1-sources">
+    <archive path="/Users/gyu/Desktop/각종파일/자바 크롤링/jsoup-1.13.1.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/자바 크롤링/jsoup-1.13.1-javadoc.jar" />
+  </library>
+  <library name="jstl">
+    <archive path="/Users/gyu/Desktop/각종파일/JSTL/jstl.jar" />
+    <archive path="/Users/gyu/Desktop/각종파일/JSTL/standard.jar" />
+  </library>
+</eclipse-userlibraries>
+

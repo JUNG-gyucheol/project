@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/ProJect"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.33" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 9.0.33" value="application_server_libraries"/>
+		<level name="JAX-WS-Apache Axis" value="project"/>
+		<level name="CKFinder-2.6.3" value="project"/>
+		<level name="cos" value="project"/>
+		<level name="jstl" value="project"/>
+		<level name="jsoup-1.13.1-sources" value="project"/>
+		<level name="json-simple-1.1.1" value="project"/>
+		<level name="activation-1.1.1" value="project"/>
+	</levels>
+</component>

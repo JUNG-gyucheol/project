@@ -1,0 +1,184 @@
+@font-face {
+    font-family: 'RedRose-Bold';
+    src: url(../font/RedRose-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'NanumGothicCoding-Bold';
+    src: url(../font/NanumGothicCoding-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'Philosopher-Bold';
+    src: url(../font/Philosopher-Bold.ttf);
+    font-weight: bold;
+}
+
+body {
+    text-transform: uppercase;
+    margin: 0;
+    font-family: RedRose-Bold;
+    font-size: 13px;
+}
+button{
+    font-family: RedRose-Bold;
+}
+input[type=button]{
+    font-family: RedRose-Bold;
+}
+input[type=text]{
+    font-family: RedRose-Bold;
+}
+li {
+    list-style: none;
+}
+
+.mainlogo {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+header {
+    z-index: 250;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: column;
+}
+
+.pi {
+    width: auto;
+    height: 120px;
+
+    background-image: url("../images/header1-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main1 {
+    text-align: center;
+    background: white;
+    text-shadow: 2px 3px 2px black, 4px 3px 4px black, 6px 3px 6px black,
+    8px 3px 8px black;
+    letter-spacing: 0.1rem;
+    font-family: Philosopher-Bold;
+    box-shadow: inset 0px 0px 8px black;
+    width: auto;
+    height: 70px;
+    line-height: 70px;
+    font-size: 50px;
+    color: white;
+}
+.ggyu{
+    font-size: 30px;
+}
+
+.main2 {
+    width: auto;
+    height: 58px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+}
+
+.fixinner {
+    background: white;
+    top: 0;
+    width: 100%;
+    height: 58px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+}
+
+.nav1 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+
+}
+
+.nav1 li {
+    margin-right: 10px;
+    width: 80px;
+    text-align: center;
+
+}
+
+.nav2 {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.nav2 li {
+    margin-right: 10px;
+}
+
+
+.subnav1 {
+    position: relative;
+}
+
+.subnav1-2{
+    display: flex;
+}
+
+.subnav1-1 {
+    display: none;
+    position: absolute;
+    padding-left: 0;
+    padding-top: 20px;
+    background: white;
+    z-index: 1;
+}
+
+.subnav1:hover ul {
+    display: block;
+    transition: all 0.5s;
+}
+
+.subnav1-1 li {
+    padding-bottom: 20px;
+}
+
+#pic {
+    position: absolute;
+    top: 30px;
+    right: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+
+.pic1 {
+    width: 100px;
+}
+
+.pic1-1 {
+    width: 200px;
+    height: 250px;
+    margin-right: 30px;
+}
+
+#headerSearch {
+    display: block;
+}
+
+#search1 {
+    display: none;
+}
+#enter{
+    margin-top: 8px;
+    font-family: RedRose-Bold;
+    padding-left: 8px;
+}

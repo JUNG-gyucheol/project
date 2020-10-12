@@ -1,0 +1,68 @@
+.content{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 700px;
+}
+.sub1{
+    margin-bottom: 10px;
+}
+.sub1 div{
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+}
+.sub1-1,.sub1-2,.sub1-3{
+    width: 100px;
+}
+.sub1-4{
+    width: 150px;
+}
+.sub2{
+    margin-bottom: 10px;
+}
+.sub2 div{
+
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+}
+.sub2-1,.sub2-2,.sub2-3{
+    width: 100px;
+}
+.sub2-4{
+    width: 200px;
+}
+.content1{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.content2{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.content3{
+    font-size: 12px;
+    color: grey;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.sub3{
+    text-align: center;
+}
+.sub4{
+    text-align: center;
+    margin-top: 10px;
+}
+.sub4 button{
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+}

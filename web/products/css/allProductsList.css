@@ -1,0 +1,49 @@
+#con {
+    display: inline-block;
+    text-align: center;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#maincon{
+    margin-top: 100px;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.conG{
+    width: 821px;
+    margin: auto;
+}
+.con1{
+    margin-bottom: 5px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.products1{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.products2{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.products3{
+    color: grey;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.pageNum{
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.no_list{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}

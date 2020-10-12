@@ -1,0 +1,109 @@
+.all1{
+    width: 1000px;
+    margin: auto;
+}
+.all2{
+    display: flex;
+    justify-content: center;
+}
+.all2 div{
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    height: 25px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 25px;
+    display: inline-block;
+}
+.all2-1{
+    width: 80px;
+}
+.all3{
+    display: flex;
+    justify-content: center;
+}
+.all3 div{
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    height: 25px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 25px;
+}
+.all4{
+    display: flex;
+    justify-content: center;
+}
+.all4 div{
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    height: 25px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 25px;
+    display: inline-block;
+}
+.all5{
+    text-align: center;
+    height: 25px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+.all6{
+    text-align: center;
+    height: 25px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+.all6 input{
+    margin-right: 10px;
+}
+.all7{
+    text-align: center;
+    height: 25px;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.all8{
+    text-align: center;
+}
+.all9{
+    text-align: center;
+}
+.all9 input{
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    margin-top: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.regi1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+.regi2{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.regi3 {
+    color: grey;
+    font-size: 13px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}

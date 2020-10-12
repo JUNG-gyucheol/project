@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="CKFinder-2.6.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/각종파일/ckfinder/WEB-INF/lib/CKFinder-2.6.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/각종파일/ckfinder/WEB-INF/lib/CKFinderPlugin-FileEditor-2.6.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/각종파일/ckfinder/WEB-INF/lib/CKFinderPlugin-ImageResize-2.6.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/각종파일/ckfinder/WEB-INF/lib/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/각종파일/ckfinder/WEB-INF/lib/commons-io-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/각종파일/ckfinder/WEB-INF/lib/gson-2.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/각종파일/ckfinder/WEB-INF/lib/thumbnailator-0.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

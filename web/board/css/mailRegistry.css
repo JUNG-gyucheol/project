@@ -1,0 +1,73 @@
+.mailRegiContainer{
+    margin: auto;
+    margin-top: 100px;
+    width: 800px;
+}
+.mailContact{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.mailContact1{
+    text-align: left;
+    font-size: 12px;
+    color: grey;
+    margin-bottom: 15px;
+}
+.mailId{
+    display: flex;
+    margin-top: 20px;
+}
+.mailId1{
+    width: 80px;
+    line-height: 30px;
+}
+.mailId2{
+    width: 200px;
+    line-height: 30px;
+}
+.mailId3{
+    width: 80px;
+    line-height: 30px;
+}
+.mailId4 input{
+    padding-left: 8px;
+    width: 200px;
+    height: 30px;
+}
+.mailSubject{
+    display: flex;
+    margin-top: 20px;
+}
+.mailSubject1{
+    width: 80px;
+    line-height: 30px;
+}
+.mailSubject2 input{
+    width: 300px;
+    height: 30px;
+    padding-left: 8px;
+}
+.mailContent{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.mailContent1 {
+    margin-top: 20px;
+}
+.mailButton{
+    text-align: right;
+    margin-top: 10px;
+}
+.mailButton input{
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

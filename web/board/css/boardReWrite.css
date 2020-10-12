@@ -1,0 +1,65 @@
+.upDateContainer{
+    margin: auto;
+    margin-top: 100px;
+    width: 570px;
+}
+.updateTop{
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+.topUpdate{
+    display: flex;
+    margin-top: 30px;
+}
+.topUpdate1,.topUpdate2,.topUpdate3,.topUpdate5{
+    width: 70px;
+}
+.topUpdate4{
+    width: 150px;
+}
+.centerUpdate{
+    display: flex;
+    margin-top: 20px;
+}
+.centerUpdate1{
+    width: 70px;
+}
+.centerUpdate2 input{
+    margin-left: 20px;
+    width: 250px;
+    overflow: hidden;
+}
+.centerUpdate3{
+    margin-left: 20px;
+    width: 50px;
+}
+.conentUpdate{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.conentUpdate1{
+    margin-top: 15px;
+    text-align: center;
+}
+.conentUpdate1 textarea{
+    width: 570px;
+    height: 300px;
+}
+.bottomUpdate{
+    margin-top: 10px;
+    text-align: right;
+}
+.bottomUpdate input{
+    background: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

@@ -1,0 +1,68 @@
+.section{
+    display: flex;
+}
+.sidemenu{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 70px;
+    padding-left: 78px;
+    position: absolute;
+}
+.sidemenu li{
+    margin-bottom: 30px;
+}
+.update{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 420px;
+}
+.update1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 30px;
+}
+.update1-1{
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 15px ;
+}
+.update2{
+    font-size: 11px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.update3{
+    padding-left: 15px;
+}
+.userpw{
+    width: 420px;
+    margin-bottom: 20px;
+    height: 38px;
+    padding-left: 15px;
+    margin-top: 20px;
+}
+.button1{
+    width: 420px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.button2{
+    width: 420px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

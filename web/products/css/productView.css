@@ -1,0 +1,76 @@
+img{
+    width: 700px;
+    height: 500px;
+}
+.mainView{
+    margin-top: 100px;
+}
+.mainView1{
+    width: 800px;
+    margin: auto;
+}
+
+.view1{
+    display: flex;
+    justify-content: center;
+}
+.view1 div{
+    width: 150px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.view2{
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.view3 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+.view3 div{
+    width: 80px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.view4{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.view5{
+    text-align: center;
+}
+.view6{
+    text-align: center;
+}
+.view6 input{
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.proUpdate1{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.proUpdate2{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 13px;
+}
+.proUpdate3{
+    color: grey;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}

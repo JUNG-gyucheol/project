@@ -1,0 +1,113 @@
+
+.cartsection{
+    width: 1000px;
+    margin: auto;
+}
+.cartSub{
+    display: flex;
+}
+
+.cartSub1{
+    margin: auto;
+    display: flex;
+    width: 1000px;
+
+}
+
+.cartSub1 div {
+    text-align: center;
+    width: 200px;
+    font-weight: bold;
+    font-size: 13px;
+    height: 50px;
+    line-height: 50px;
+}
+.cartList{
+    display: flex;
+    align-items: center;
+}
+.cartcheck{
+    margin-left: auto;
+    width: 200px;
+    text-align: center;
+}
+.cartINFO{
+    flex-direction: column;
+    width: 100px;
+}
+.cartINFO div{
+    margin-top: 8px;
+    padding-left: 8px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.cartSize{
+    margin-bottom: 8px;
+}
+.cartPrice{
+    width: 200px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+}
+.cartDate{
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+}
+.cartDate button{
+    width: 100px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.carDate1{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#pageBlock{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.cartPur{
+    text-align: right;
+    margin-top: 10px;
+}
+.cartPur input{
+    width: 100px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.cartMain{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.cartMain1{
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.cartMain2{
+    font-size: 11px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.subList2{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}

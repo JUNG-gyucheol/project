@@ -1,0 +1,102 @@
+li{
+    list-style: none;
+}
+.mainlogo{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    z-index: 10;
+}
+.flexbox{
+    display: flex;
+    flex-direction: column;
+}
+.pi{
+    width: auto;
+    height: 120px;
+
+    background-image: url("/images/header1-3.jpg");
+    background-repeat: no-repeat ;
+    background-size:cover;
+}
+.main1{
+    text-align: center;
+
+    width: auto;
+    height: 50px;
+    line-height: 50px;
+    font-size: 50px;
+    background: black;
+    color: white;
+    padding-top: 10px;
+}
+.main2{
+    width: auto;
+    height: 58px;
+    display: flex;
+    align-items: center;
+}
+.nav1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+
+}
+.nav1  li{
+    margin-right: 10px;
+    width: 80px;
+    text-align: center;
+
+}
+.nav2{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: 20px;
+}
+.nav2 li {
+    margin-right: 10px;
+}
+.subnav1{
+    position: relative;
+}
+.subnav1-1 {
+    display: none;
+    position: absolute;
+    padding-left: 0;
+    padding-top: 50px;
+    background: white;
+    width: 1000px;
+    height: 300px;
+    z-index: 1;
+}
+.subnav1:hover ul{
+    display: block;
+}
+.subnav1-1 li{
+    padding-bottom: 50px;
+}
+/*.footer{*/
+/*    border: 1px solid black;*/
+/*    height: 300px;*/
+/*}*/
+#pic{
+    position: absolute;
+    top:30px;
+    right: 0;
+    margin-right: 0;
+    text-align: center;
+
+}
+.pic1{
+    width: 100px;
+}
+.pic1-1{
+    width: 200px;
+    height: 250px;
+    margin-right: 30px;
+}

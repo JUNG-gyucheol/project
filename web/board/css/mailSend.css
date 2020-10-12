@@ -1,0 +1,76 @@
+.sendSection {
+    margin-top: 100px;
+}
+
+.sendSection1 {
+    width: 800px;
+    margin: auto;
+}
+
+.sendSub1-1 {
+    display: flex;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.sendSub1-2 {
+    width: 100px;
+}
+
+.sendSub1-3 {
+    width: 150px;
+}
+
+.sendSub2-1 {
+    display: flex;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.sendSub2-2 {
+    width: 100px;
+    padding-top: 3px;
+}
+
+.sendSub2-3 {
+    width: 150px;
+}
+
+.sendCon {
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.sendBtn{
+    margin-top: 15px;
+    text-align: center;
+}
+.sendBtn input{
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.topSub1{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.topSub2{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.topSub3{
+    font-size: 13px;
+    color: grey;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}

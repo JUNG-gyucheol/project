@@ -1,0 +1,78 @@
+.menu1 {
+    margin-top: 100px;
+}
+
+.menu1-1 {
+    width: 1000px;
+    margin: auto;
+
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.menu1-2 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.menu1-2 div {
+    width: 300px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.menu1-3 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.menu1-3 div {
+    width: 300px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.topSale {
+    width: 1000px;
+
+}
+
+.topSale1 {
+    display: inline-block;
+    text-align: center;
+}
+
+.topSale1 div {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.topSale2{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+#sub {
+    display: inline-block;
+}
+
+#sub1 {
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.topsub {
+    font-weight: bold;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 15px;
+}

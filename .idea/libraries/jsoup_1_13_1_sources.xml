@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jsoup-1.13.1-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/각종파일/자바 크롤링/jsoup-1.13.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/각종파일/자바 크롤링/jsoup-1.13.1-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/각종파일/자바 크롤링/jsoup-1.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,119 @@
+.shoesStock {
+    font-weight: bold;
+    font-size: 13px;
+    margin-top: 100px;
+}
+
+.shoesStock1 {
+    width: 1200px;
+    margin: auto;
+}
+
+.shoes_sub {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.shoes_sub div {
+    display: inline-block;
+}
+
+.shoes_sub1 {
+    width: 70px;
+}
+
+.shoes_sub2 {
+    width: 250px;
+}
+
+.shoes_sub3 {
+    width: 170px;
+}
+
+#stockList {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#stockList div {
+    display: inline-block;
+}
+
+.pageBlock {
+    text-align: center;
+}
+
+.pageBlock a {
+    margin-right: 5px;
+}
+
+#noList {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.back_btn {
+    text-align: center;
+}
+
+.back_btn button {
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.category {
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.category div {
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+}
+.shoes_search{
+    text-align: right;
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+.shoes_search div{
+    display: inline-block;
+}
+.shoes_search input[type=text]{
+    height: 30px;
+    padding-left: 8px;
+}
+.shoes_search button{
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.shoesSub1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+.shoesSub2{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.shoesSub3{
+    font-size: 12px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}

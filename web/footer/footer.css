@@ -1,0 +1,37 @@
+.footer{
+    font-size: 12px;
+}
+.footer img {
+    width: 13px;
+    height: 13px;
+}
+.sns_thumb{
+    text-align: right;
+    margin-right: 90px;
+}
+.sns_thumb img{
+    margin-right: 10px;
+}
+.footer_menu{
+    margin-top: 20px;
+}
+.footer_menu1{
+    margin-left: 100px;
+}
+.footer_menu2{
+    text-align: center;
+    margin-top: 20px;
+}
+.footer_menu3{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.footer_menu3 div{
+    width: 200px;
+    text-align: center;
+}
+.footer_menu4 {
+    text-align: center;
+    margin-top: 30px;
+}

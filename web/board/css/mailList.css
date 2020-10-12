@@ -1,0 +1,98 @@
+.mailListContainer{
+    width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+}
+.topMailSub{
+    display: flex;
+}
+.topMailSub div{
+    width: 250px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.topMail{
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.topMail div{
+    width: 250px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.topMail1{
+    text-align: center;
+}
+.topMail2{
+    overflow: hidden;
+}
+.topBoard2{
+    font-size: 12px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+#pageBlock{
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+.idSearchBar{
+    display: flex;
+    margin-top: 8px;
+}
+.idSearchBar1{
+    margin-left: auto;
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 10px;
+    padding-top: 2.5px;
+}
+.idSearchBar button{
+    width: 100px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.idSearchBar input[type=text]{
+    padding-left: 8px;
+    margin-right: 4px;
+
+}
+.bottomContact{
+    text-align: center;
+    margin-top: 15px;
+}
+.bottomContact button{
+    width: 100px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.topMailCon{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.topMailCon1{
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.topMailCon2{
+    font-size: 12px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}

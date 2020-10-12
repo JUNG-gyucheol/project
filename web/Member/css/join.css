@@ -1,0 +1,159 @@
+.joinContainer{
+   margin-top: 100px;
+}
+.joinContainer1{
+    width: 420px;
+    margin: auto;
+}
+.createAccount{
+    text-align: center;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 30px;
+}
+.createAccount1{
+    text-align: left;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.loginCheck{
+    margin-top: 20px;
+}
+.loginCheck1{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+}
+.loginCheck2{
+    width: 150px;
+    height: 36px;
+    margin-left: 20px;
+    background: black;
+    color:white;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.loginCheck3{
+    font-size: 11px;
+    color: grey;
+    margin-left: 11px;
+    margin-top: 3px;
+}
+.password{
+    margin-top: 20px;
+}
+.password1{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+}
+.password2{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+    margin-left: 25.5px;
+}
+.password3{
+    font-size: 11px;
+    color: grey;
+    margin-left: 11px;
+    margin-top: 3px;
+}
+.name{
+    margin-top: 20px;
+}
+.name1{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+}
+.gender{
+    margin-left: 50px;
+}
+.birth{
+    margin-top: 20px;
+}
+.birth1{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+}
+.email{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+    margin-left: 25.5px;
+}
+.phone{
+    margin-top: 20px;
+}
+.phone1{
+    width: 80px;
+    height: 25px;
+    padding-left: 8px;
+}
+.postCode{
+    margin-top: 20px;
+}
+.postCode1{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+}
+.postCode2{
+    width: 150px;
+    height: 36px;
+    margin-left: 20px;
+    background: black;
+    color:white;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.adress{
+    margin-top: 20px;
+
+}
+.adress1{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+}
+.adress2{
+    margin-top: 20px;
+}
+.adress3{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+}
+.adress4{
+    width: 195px;
+    height: 36px;
+    padding-left: 8px;
+    margin-left: 25.5px;
+}
+.submit{
+    width: 420px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.cancle{
+    width: 100px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

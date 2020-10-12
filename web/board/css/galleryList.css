@@ -1,0 +1,248 @@
+.bigContent {
+    width: 1100px;
+    margin: auto;
+    display: flex;
+}
+
+.bigContent1 {
+    margin-top: 100px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content {
+    margin: auto;
+}
+
+#heart {
+    width: 20px;
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+.topMail {
+    display: inline-block;
+    width: 250px;
+    margin-right: 10px;
+    margin-left: 10px;
+    flex-direction: row;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 15px;
+
+}
+
+.topMail div {
+    margin-bottom: 6px;
+}
+
+#imgSize {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.sub {
+    display: inline-block;
+    width: 60px;
+}
+
+.sub2 {
+    display: inline-block;
+}
+
+.delete {
+    text-align: right;
+}
+
+.delete button {
+    background: black;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: 10px;
+    box-shadow: 4px 16px 18px 0px black;
+}
+
+.topMail2 {
+    text-align: center;
+}
+
+#pageBlock {
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#pageBlock a {
+    margin-right: 8px;
+}
+
+.bottomSub {
+    margin-left: auto;
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 10px;
+    padding-top: 2.5px;
+}
+
+#bottomSub1 {
+    display: flex;
+    margin-top: 8px;
+}
+
+#bottomSub1 input[type=text] {
+    padding-left: 8px;
+    margin-right: 4px;
+}
+
+#bottomSub1 button {
+    width: 100px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.bottomSub2 {
+    text-align: center;
+}
+
+.bottomSub2 button {
+    width: 100px;
+    font-size: 13px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+#imgSize img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#imgSize img:hover {
+    opacity: 0.7;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.7); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {
+        -webkit-transform: scale(0)
+    }
+    to {
+        -webkit-transform: scale(1)
+    }
+}
+
+@keyframes zoom {
+    from {
+        transform: scale(0)
+    }
+    to {
+        transform: scale(1)
+    }
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#img99 {
+    border-radius: 5px;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px) {
+    .modal-content {
+        width: 100%;
+    }
+}
+
+.topBoard {
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.topBoard1 {
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.topBoard2 {
+    font-size: 12px;
+    color: grey;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}

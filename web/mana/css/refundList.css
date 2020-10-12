@@ -1,0 +1,91 @@
+.re_main {
+    margin-top: 100px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.re_main1 {
+    width: 1000px;
+    margin: auto;
+}
+
+.re_all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.re_thumb img {
+    width: 150px;
+    height: 150px;
+}
+.re_info{
+    margin-left:10px;
+}
+.re_info div{
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.re_info1 div{
+    display: inline-block;
+    width: 100px;
+}
+.re_id{
+    margin-left: 150px;
+    margin-right: 200px;
+}
+.re_sub{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+}
+.re_sub div{
+    width: 300px;
+    text-align: center;
+}
+.re_sub1{
+    margin-left: 100px;
+}
+.re_sub2{
+    margin-left:280px;
+}
+.re_sub3{
+    margin-left: 130px;
+    margin-right: 40px;
+}
+.back_btn{
+    text-align: center;
+}
+.back_btn button{
+    background: black;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.pageNum{
+    text-align: center;
+    margin-top: 5px;
+}
+.no_list{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+.re_top1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.re_top2{
+    margin-bottom: 15px;
+}
+.re_top3{
+    margin-top: 15px;
+    color: grey;
+    font-size: 12px;
+}

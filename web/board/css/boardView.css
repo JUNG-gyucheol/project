@@ -1,0 +1,112 @@
+.viewContainer{
+    margin: auto;
+    margin-top: 100px;
+    width: 570px;
+}
+.contactContent{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.topView{
+    display: flex;
+    margin-top: 30px;
+}
+.topView1,.topView2,.topView3,.topView5{
+    width: 70px;
+}
+.topView4{
+    width: 150px;
+}
+.centerView{
+    display: flex;
+    margin-top: 20px;
+}
+.centerView1{
+    width: 70px;
+}
+.centerView2{
+    margin-left: 20px;
+    width: 270px;
+    overflow: hidden;
+}
+.centerView3{
+    width: 50px;
+}
+.contentView{
+    margin-top: 30px;
+    text-align: center;
+}
+.contentView1{
+    margin-top: 15px;
+    height: 200px;
+}
+.bottomView{
+    margin-top: 10px;
+    text-align: right;
+}
+.bottomView input{
+    background: black;
+    color: white;
+    width: 90px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.commList{
+    margin-top: 20px;
+}
+.commListWrap{
+    display: flex;
+}
+.commList1{
+    width: 150px;
+}
+.commList2{
+    margin-left: auto;
+    padding-right: 30px;
+
+}
+.commList3 button{
+    background: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.commList4{
+    margin-top: 10px;
+    height: 70px;
+}
+.pageNum{
+    text-align: center;
+    margin-right: 5px;
+}
+.commId{
+    margin-top: 8px;
+}
+.commRegi{
+    width: 570px;
+    margin-top: 5px;
+}
+.commRegi1{
+    text-align: right;
+    margin-top: 5px;
+}
+.commRegi1 button{
+    background: black;
+    color: white;
+    font-weight: bold;
+    width: 80px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.commRegi2{
+    margin-top: 5px;
+}
+.commRegi2 textarea{
+    width: 570px;
+}

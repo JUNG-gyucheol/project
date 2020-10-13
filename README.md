@@ -65,3 +65,11 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819134-56d8c380-0d60-11eb-9677-9edc8edbd00c.png" width="500px" height="400px"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819136-57715a00-0d60-11eb-9e73-3ab4dd55ccf4.png" width="500px" height="400px"></p>
 <br>
+
+## 상품구매
+* 상품을 클릭 후 사이즈를 누르면 개수 입력란과 가격 표시 / 구매버튼 / 장바구니 기능구현
+* 사이즈 추가 후 취소기능 구현
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819139-5809f080-0d60-11eb-9777-3b248093e688.png" width="500px" height="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819142-593b1d80-0d60-11eb-9a20-75e6f32e65f8.png" width="500px" height="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819141-58a28700-0d60-11eb-9629-0b6814fceb31.png" width="500px" height="400px"></p>
+<br>

@@ -46,5 +46,6 @@
   * 일반게시판
 
 ## 회원가입 및 로그인
-<img src="https://user-images.githubusercontent.com/59688264/95819103-504a4c00-0d60-11eb-9638-e81bc0fb0869.png" width="400px">
-<img src="https://user-images.githubusercontent.com/59688264/95819109-50e2e280-0d60-11eb-9459-4923fa456524.png" width="400px">
+* Ajax를 이용한 아이디 중복확인체크 및 로그인체크
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819103-504a4c00-0d60-11eb-9638-e81bc0fb0869.png" width="800px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819109-50e2e280-0d60-11eb-9459-4923fa456524.png" width="800px"></p>

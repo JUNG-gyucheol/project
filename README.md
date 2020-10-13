@@ -81,7 +81,13 @@
 <br>
 
 ## 게시판
-* 검색 / 수정 / 삭제 기능구현
-* 댓글 및 대댓글 / 검색 / 수정 / 삭제 기능구현  
+* 등록 / 검색 / 수정 / 삭제 기능구현
+* 댓글 및 대댓글 등록 / 수정 / 삭제 기능구현  
 <p align="center"><img src="https://user-images.githubusercontent.com/59688264/95824957-20547600-0d6b-11eb-96fe-1b18f2a899b2.png" height="400px"></p>
+<br>
+
+## 갤러리 게시판
+* 좋아요 / 이미지다운로드 / 이미지등록 / 삭제 / 수정 / 조회수 기능
+* 사진클릭 시 모달창으로 보여짐
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95825182-70333d00-0d6b-11eb-952c-4531943dd74f.png" height="400px"></p>
 <br>

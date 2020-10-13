@@ -91,3 +91,9 @@
 * 사진클릭 시 모달창으로 보여짐
 <p align="center"><img src="https://user-images.githubusercontent.com/59688264/95825182-70333d00-0d6b-11eb-952c-4531943dd74f.png" height="400px"></p>
 <br>
+
+## 관리자메인페이지
+* 총 매출현황 및 당일매출현황 표시
+* 매출이 높은 순으로 10개의 상품 표시
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819185-63f5b280-0d60-11eb-98aa-902e6e2a1554.png" height="400px"></p>
+<br>

@@ -60,4 +60,8 @@
 ## 쇼핑몰 리스트
 * 전체 / 상의 / 하의 / 신발 리스트
 
-<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819125-550f0000-0d60-11eb-8d13-72437e05e786.png" height="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819125-550f0000-0d60-11eb-8d13-72437e05e786.png" width="500px" height="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819127-55a79680-0d60-11eb-827f-a14b63d51212.png" width="500px" height="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819134-56d8c380-0d60-11eb-9677-9edc8edbd00c.png" width="500px" height="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819136-57715a00-0d60-11eb-9e73-3ab4dd55ccf4.png" width="500px" height="400px"></p>
+<br>

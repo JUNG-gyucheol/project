@@ -74,4 +74,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/59688264/95824161-c4d5b880-0d69-11eb-9258-08450d5db448.png" height="400px"></p>
 <br>
 
+## 구매내역 및 장바구니
+* 구매내역페이지에서 환불기능 구현
+* 장바구니페이지에서 구매할 상품을 체크하면 체크한 상품 구매가능 및 장바구니에 있는 상품 삭제기능 구현
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95824639-9f957a00-0d6a-11eb-98ed-53460f939c43.png" height="400px"></p>
+<br>
 

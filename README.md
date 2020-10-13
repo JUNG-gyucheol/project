@@ -8,8 +8,8 @@
 
 ## 개발환경
 * 개발도구
- *IntelliJ
- *MySQL 8.0.19
+ * IntelliJ
+ * MySQL 8.0.19
  <br>
 * 언어
  * JAVA 8 (JDK1.8)
@@ -20,6 +20,7 @@
  <br>
 * 서버
  * Apache Tomcat v 9.0.38
+ <br>
 * API
  * CKeditor4
  

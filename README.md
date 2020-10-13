@@ -69,7 +69,9 @@
 ## 상품구매
 * 상품을 클릭 후 사이즈를 누르면 개수 입력란과 가격 표시 / 구매버튼 / 장바구니 기능구현
 * 사이즈 추가 후 취소기능 구현
-<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819139-5809f080-0d60-11eb-9777-3b248093e688.png" width="500px" height="400px"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819142-593b1d80-0d60-11eb-9a20-75e6f32e65f8.png" width="500px" height="400px"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819141-58a28700-0d60-11eb-9629-0b6814fceb31.png" width="500px" height="400px"></p>
+* 상품구매버튼 클릭 시 구매페이지로 이동 및 구매완료페이지로 이동
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95824152-c1dac800-0d69-11eb-839e-ca05770f1d25.png" height="400px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95824161-c4d5b880-0d69-11eb-9258-08450d5db448.png" height="400px"></p>
 <br>
+
+

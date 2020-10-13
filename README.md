@@ -97,3 +97,26 @@
 * 매출이 높은 순으로 10개의 상품 표시
 <p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819185-63f5b280-0d60-11eb-98aa-902e6e2a1554.png" height="400px"></p>
 <br>
+
+## 상품등록
+* 등록한 상품 리스트
+* 등록 시 카테고리 및 사이즈별 재고 입력 기능
+* 썸네일 등록
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95825210-7c1eff00-0d6b-11eb-9844-92ac4cea3494.png" height="400px"></p>
+<br>
+
+## 상품재고리스트
+* 상품 검색
+* 상품 카테고리를 이용해 분류
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819198-68ba6680-0d60-11eb-8173-a9ba1f27c4e3.png" height="400px"></p>
+<br>
+
+## 회원정보리스트
+* 회원아이디 검색기능
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819203-69eb9380-0d60-11eb-9514-30ba47764160.png" height="400px"></p>
+<br>
+
+## 라이센스
+Copyright © 2020 Gyu-Cheol Jung. <br>
+This project is ITWILL Busan licensed.
+<hr>

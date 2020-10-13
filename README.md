@@ -57,3 +57,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/59688264/95822556-1d578680-0d67-11eb-8ed9-a4238b8f6b8e.png" height="400px"></p>
 <br>
 
+## 쇼핑몰 리스트
+* 전체 / 상의 / 하의 / 신발 리스트
+
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95819125-550f0000-0d60-11eb-8d13-72437e05e786.png" height="400px"></p>

@@ -80,3 +80,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/59688264/95824639-9f957a00-0d6a-11eb-98ed-53460f939c43.png" height="400px"></p>
 <br>
 
+## 게시판
+* 검색 / 수정 / 삭제 기능구현
+* 댓글 및 대댓글 / 검색 / 수정 / 삭제 기능구현  
+<p align="center"><img src="https://user-images.githubusercontent.com/59688264/95824957-20547600-0d6b-11eb-96fe-1b18f2a899b2.png" height="400px"></p>
+<br>

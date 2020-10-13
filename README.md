@@ -1,6 +1,6 @@
 # GGYUSTORE / 2020.06 - 2020.07
 <p align="center"> Main Page Preview </p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/63029576/95649151-07ec1d80-0b17-11eb-939b-0ed35856c927.jpg" width="800px"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/59688264/95819100-4e808880-0d60-11eb-9ac0-21c07018a137.png" width="800px"> </p>
 <br>
 
 ## 주제
